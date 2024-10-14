@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sound/naruto.wav</file>
+	<file>sound/hi.wav</file>
+	<file>sound/clap.wav</file>
+	<file>sound/dab.wav</file>
+	<file>sound/meditation.wav</file>
+	<file>sound/walk.wav</file>
+	<file>sound/jump.wav</file>
+        <file>sound/footsteps-grass.wav</file>
+        <file>sound/flightmode.wav</file>
+        <file>sound/swimming.wav</file>
+    </qresource>
+</RCC>
